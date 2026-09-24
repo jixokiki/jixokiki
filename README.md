@@ -1,112 +1,78 @@
-# Rizki Maulana
+<h1 align="center">Hi, I'm Rizki Maulana 👋</h1>
+<p align="center">Full-stack developer based in Indonesia — currently open to new opportunities.</p>
 
-<h1>👋 Welcome to my Profile!</h3>
-<img src="GITHUB/VenS.png" width="100%" height="500"/>
+<p align="center">
+  <img src="GITHUB/VenS.png" width="100%" />
+</p>
 
-# Hi, I'm Rizki Maulana
+<div align="center">
 
-I love when I can realize my ideas. It's satisfying to see it work & help others. Nothing more to tell here ¯\_(ツ)_/¯
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/rizky-maulana-920343218)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ikiwygy_/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrizki402@gmail.com)
 
-My Many Obsessions: 
-- Blender 
-- Unreal Engine 
-- Unity 
-- AI [Text/Image] 
-- HTML, CSS and Java Script 
-- Game Developement 
-- Games 
-- Web Developement
-- Golang 
-- Construct 3
-- Phaser Game Framework
-- Spss
-- Data Mining 
-- SQL
-- Corel Draw, Photoshop, Premiere Pro, and other software design
-
-<div id="badges">
-  <a href="http://linkedin.com/in/rizky-maulana-920343218">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/ikiwygy_/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=website&logoColor=white" alt="Web Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Showcase-blue?style=for-the-badge&logo=showcase&logoColor=white" alt="Showcase Badge"/>
-  </a>
 </div>
 
-<p>
-  <a href="">Web</a> •
-  <a href="https://www.instagram.com/ikiwygy_/">Instagram</a> •
-  <a href="http://linkedin.com/in/rizky-maulana-920343218"/>LinkedIn</a> •
-  <a href="">Showwcase</a> •
-</p>
+---
 
-<p>
-<a href="https://github.com/jixokiki/jixokiki/stargazers"><img src="https://img.shields.io/github/stars/jixokiki/jixokiki" alt="Stars Badge"/></a>
-<a href="https://github.com/jixokiki/jixokiki/network/members"><img src="https://img.shields.io/github/forks/jixokiki/jixokiki" alt="Forks Badge"/></a>
-<a href="https://github.com/jixokiki/jixokiki/pulls"><img src="https://img.shields.io/github/issues-pr/jixokiki/jixokiki" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/jixokiki/jixokiki/issues"><img src="https://img.shields.io/github/issues/jixokiki/jixokiki" alt="Issues Badge"/></a>
-<a href="https://github.com/jixokiki/jixokiki/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jixokiki/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/jixokiki/jixokiki/blob/master/LICENSE"><img src="https://img.shields.io/github/license/jixokiki/jixokiki?color=2b9348" alt="License Badge"/></a>
-<!-- Counting views, -->
-<!--<p>Since 16 February 2023</p>-->
-<img src=https://komarev.com/ghpvc/?username=jixokiki alt=jixokiki/>
-</p>
+## About Me
 
-<p align="right"><b>I live in Indonesia</b></p>
+I build web and mobile products end-to-end — from landing pages and marketing sites to full applications — and I like turning ideas into things people can actually use. Outside of client and product work, I dabble in game development (Unity/Unreal) and AI-assisted tooling.
 
-<img align="right" src ="https://flagcdn.com/256x192/id.webp" width="50%" />
+**🟢 Status:** Open to work — full-time roles, freelance, or collaboration
+**📍 Location:** Indonesia
+**📫 Reach me:** rrizki402@gmail.com
 
-**🔭 Current Project:** Start-up
+---
 
-**🌱 Currently Learning:** PT Educa Sisfomedia 2022
+## Selected Work
 
-**🤔 Thinking about:** Looking for collaboration
+**[Jual Emas Indonesia — Redesign](https://portfolio-redesain-jual-emas-indone.vercel.app/)**
+Concept redesign of a gold buyback company's site — landing page, city-based pricing pages, and branch directory, rebuilt with a cleaner UI and interactive elements.
 
-**📫 Email me:** rrizki402@gmail.com
+**[Doeun Resto](https://doeunresto-zvnv.vercel.app/)**
+A single entry portal routing into four separate dining concepts under one restaurant group — focused on a fast, minimal landing experience.
 
-**😄 Pronouns:** he/him/his
+**Digital Office Application** *(internal/NDA)*
+Contributed to the development of a digital office platform — unable to share the repo or client name, but happy to talk through my role in an interview.
 
-<img alt="jixokiki Github Stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=jixokiki&show_icons=true&theme=cobalt">
+*More repos, including projects I've starred for UI or architecture inspiration, are on my [GitHub profile](https://github.com/jixokiki).*
 
-<img alt="jixokiki Top Lang" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jixokiki&layout=compact&theme=cobalt">
+---
 
-#### :medal_military: My Badge
+## Tech Stack
 
+**Web & Mobile**
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-## 👩🏻‍💻 Tech Stack 
-<div>
-<img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-804FFD.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
-<img alt="Go" src ="https://img.shields.io/badge/Go-00AED9.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img alt="React" src ="https://img.shields.io/badge/React-000000.svg?&style=for-the-badge&logo=React&logoColor=skyblue"/>
-<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.JS&logoColor=white"/>
-<img alt="Laravel" src ="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=for-the-badge&logo=Laravel&logoColor=white"/>
-<img alt="Git" src ="https://img.shields.io/badge/git-000000.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
-<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white"/>
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img alt="Tailwind" src ="https://img.shields.io/badge/Tailwind-37B7F1.svg?&style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white"/>
-<img alt="Apache" src ="https://img.shields.io/badge/Apache-D22128.svg?&style=for-the-badge&logo=Apache&logoColor=white"/>
-<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img alt="Google Cloud" src ="https://img.shields.io/badge/Google Cloud-4285F4.svg?&style=for-the-badge&logo=GoogleCloud&logoColor=white"/>
-<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-FF9900.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
-<img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
- </div>
+**Languages & Backend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+**Game Dev & AI**
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## Contribution Skyline - 2022
-<p>
-  <a href="https://skyline.github.com/jixokiki/2022" target="_blank">
-    <img height="400" width="auto" src="GITHUB/rec-tab.gif" alt="Skyline Github Contributon 2022" />
-  </a>
-</p>
+**Infra & Tools**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jixokiki&show_icons=true&theme=cobalt" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jixokiki&layout=compact&theme=cobalt" />
+</div>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=jixokiki&style=flat-square" alt="profile views" /></p>
