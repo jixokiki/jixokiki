@@ -188,7 +188,7 @@ One entry portal routing into four dining concepts under a single restaurant gro
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jixokiki&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com/?user=jixokiki&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
