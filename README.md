@@ -1,78 +1,101 @@
-<h1 align="center">Hi, I'm Rizki Maulana 👋</h1>
-<p align="center">Full-stack developer based in Indonesia — currently open to new opportunities.</p>
-
-<p align="center">
-  <img src="GITHUB/VenS.png" width="100%" />
-</p>
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/rizky-maulana-920343218)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ikiwygy_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrizki402@gmail.com)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:3b82f6&height=200&section=header&text=RIZKI%20MAULANA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Data%20Analyst&descAlignY=58&descColor=cbd5e1&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+web+%26+mobile+products+end-to-end;Clean+architecture+%7C+Clean+UI+%7C+No+shortcuts;Open+to+full-time+%2F+freelance+%2F+collaboration" />
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://linkedin.com/in/rizky-maulana-920343218)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ikiwygy_/)
+[![Email](https://img.shields.io/badge/-Email-3B82F6?style=flat-square&logo=gmail&logoColor=white)](mailto:rrizki402@gmail.com)
+[![GitHub](https://img.shields.io/badge/-jixokiki-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jixokiki)
 
 </div>
 
----
+<br />
 
-## About Me
+## `01` About
 
-I build web and mobile products end-to-end — from landing pages and marketing sites to full applications — and I like turning ideas into things people can actually use. Outside of client and product work, I dabble in game development (Unity/Unreal) and AI-assisted tooling.
+Fullstack developer with a Data Analyst / Informatics Engineering background. I've spent time on both sides of a product — building the interface and making sense of the data behind it — which is why I care as much about how a system is structured as how it looks.
 
-**🟢 Status:** Open to work — full-time roles, freelance, or collaboration
-**📍 Location:** Indonesia
-**📫 Reach me:** rrizki402@gmail.com
+Day to day: web apps, mobile, and landing pages. Outside of client work: game dev experiments (Unity / Unreal) and AI-assisted tooling.
 
----
+```
+status   : open to work — full-time, freelance, or collaboration
+based in : Indonesia
+focus    : web · mobile · digital product architecture
+```
 
-## Selected Work
+<br />
+
+## `02` Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **[Jual Emas Indonesia — Redesign](https://portfolio-redesain-jual-emas-indone.vercel.app/)**
-Concept redesign of a gold buyback company's site — landing page, city-based pricing pages, and branch directory, rebuilt with a cleaner UI and interactive elements.
+
+Full concept redesign of a gold buyback company's digital presence — city-based pricing pages, branch directory, and a cleaner conversion-focused landing flow.
+
+`Next.js` `TypeScript` `Vercel`
+
+</td>
+<td width="50%" valign="top">
 
 **[Doeun Resto](https://doeunresto-zvnv.vercel.app/)**
-A single entry portal routing into four separate dining concepts under one restaurant group — focused on a fast, minimal landing experience.
 
-**Digital Office Application** *(internal/NDA)*
-Contributed to the development of a digital office platform — unable to share the repo or client name, but happy to talk through my role in an interview.
+A single entry portal routing into four distinct dining concepts under one restaurant group — built around a minimal, fast-loading selection screen.
 
-*More repos, including projects I've starred for UI or architecture inspiration, are on my [GitHub profile](https://github.com/jixokiki).*
+`Next.js` `TypeScript` `Vercel`
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-## Tech Stack
+**Digital Office Platform** — *internal / NDA*
 
-**Web & Mobile**
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+Contributed to the development of an internal digital office application. Repo and client details aren't shareable, but I'm happy to walk through my specific role and contributions in an interview.
 
-**Languages & Backend**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</td>
+</tr>
+</table>
 
-**Game Dev & AI**
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<sub>More work, including repos I've starred for UI or architecture reference, on <a href="https://github.com/jixokiki?tab=repositories">github.com/jixokiki</a></sub>
 
-**Infra & Tools**
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br />
 
----
+## `03` Stack
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jixokiki&show_icons=true&theme=cobalt" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jixokiki&layout=compact&theme=cobalt" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,laravel,tailwind,nodejs,go,php,python,mysql,git,aws,gcp&theme=dark" />
+
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=unity,unrealengine,blender,tensorflow&theme=dark" />
+
 </div>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=jixokiki&style=flat-square" alt="profile views" /></p>
+<br />
+
+## `04` GitHub
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jixokiki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jixokiki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jixokiki&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+<br />
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e293b&height=100&section=footer" />
+</div>
